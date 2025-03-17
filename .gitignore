@@ -4,8 +4,13 @@
 META-INF
 Servers
 .classpath
+<<<<<<< HEAD
 .project
 */Server/*
+=======
+*/Server/*
+/classes/
+>>>>>>> ac12c3168d286164035ff9ac2b4101e9bfb5fdfd
 ### Eclipse ###
 .metadata
 bin/
